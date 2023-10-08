@@ -1,12 +1,3 @@
 {
-  "files": {
-    "templates/home.html": [
-      {
-        "id": "aad262e0-7e38-408c-b9b3-257586d10d96",
-        "line": 20,
-        "version": 1126,
-        "index": 1064
-      }
-    ]
-  }
+  "files": {}
 }
